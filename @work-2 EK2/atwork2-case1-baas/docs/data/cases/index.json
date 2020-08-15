@@ -1,0 +1,636 @@
+[
+    {
+    "id": "3561eff6-6fd3-5c41-89f5-fb26f254532b",
+    "slug": "uz-kinderhartfonds",
+    "title": "UZ Kinderhartfonds",
+    "description": "Jongeren die een inspanningstest moeten afleggen kijken hier vaak tegenop. Ze weten niet wat hun te wachten staat of ze hebben het al eens gedaan en staan niet te springen om het opnieuw te doen. Men kan dit hen niet kwalijk nemen. Tijdens de inspanningstest dient men tot het fysieke uiterste te gaan, dit in combinatie met een intimiderende kamer vol met medische apparatuur zorgt er al snel voor dat de test niet als aangenaam wordt ervaren.",
+    "tags": ["Webdevelopment", "Motion Graphics", "Internet of Things"],
+    "makers": ["3GDM"],
+    "technologies": ["Raspberry Pi", "Node.js"],
+    "picture": "https://dl.airtable.com/.attachments/51f30a8dd203fb2719bcc907ee736e18/9e6fe5e9/case_sm_thumbnail.PNG",
+    "course": "Studio GDM",
+    "eduSpecialisations": ["New Media Development (Multimediaproductie)"],
+    "eduOptions": ["New Media Development"],
+    "assets": [{
+        "type": "Image",
+        "caption": null,
+        "imageUrl": "https://dl.airtable.com/.attachments/7e66e1a18265624194c8e4a9b2005615/ec90463c/case_lg_aftereffects_1.png"
+    }, {
+        "type": "Image",
+        "caption": null,
+        "imageUrl": "https://dl.airtable.com/.attachments/5c668bfe39d606ef6e3deae1195662bf/31450c14/casae_lg_iot.PNG"
+    }, {
+        "type": "Image",
+        "caption": null,
+        "imageUrl": "https://dl.airtable.com/.attachments/2ae0b61ce32a276fe3d75b40235bc187/113a1dde/case_sm_thumbnail.PNG"
+    }, {
+        "type": "Image",
+        "caption": null,
+        "imageUrl": "https://dl.airtable.com/.attachments/599567ae774d2363cf46e8d57f6a8486/56f8827f/case_uz_code.png"
+    }, {
+        "type": "Image",
+        "caption": null,
+        "imageUrl": "https://dl.airtable.com/.attachments/7ffbfce11c644833ea1050e1fd7b3b2f/cf8a5f76/case_uz_code_2.PNG"
+    }]
+}, {
+    "id": "12fb4620-5462-5284-bccf-f8165600b15e",
+    "slug": "snekthemuseum-",
+    "title": "SnekTheMuseum ",
+    "description": "Het idee voor “snek the museum” is ontstaan uit een project voor “Apps for Ghent”. Dit is een initiatief om de open-data van gent maximaal te gaan benutten en de mogelijkheden ervan bij zoveel mogelijk mensen bekend te maken. Ons idee komt voort uit een andere populaire app, “surprise.me” . Dit is een app die voor u willekeurig gaat bepalen waar u op reis gaat, net voordat u vertrekt. Wij willen iets gelijkaardig creëren, maar dan voor Gentse musea. En dit met een toffe, speelse twist die u de musea beter leert kennen!",
+    "tags": ["App Development", "Webdevelopment"],
+    "makers": ["Pieter Vleminckx", "Jérôme Laroy", "Nick Boone"],
+    "technologies": ["react native", "react", "mongodb", "firebase", "Node.js", "redux"],
+    "picture": "https://dl.airtable.com/.attachments/0d8103500ae17ba6f88c2e8afb3f7611/cf7d2bef/case_mockupsnekthemuseum.jpg",
+    "course": "Mobile Development II",
+    "eduSpecialisations": ["New Media Development (Multimediaproductie)"],
+    "eduOptions": ["New Media Development"],
+    "assets": [{
+        "type": "Image",
+        "caption": null,
+        "imageUrl": "https://dl.airtable.com/.attachments/cee2469b4f454272b74fa908018efc75/823b1f16/case_mockupsnekthemuseum.jpg"
+    }, {
+        "type": "Image",
+        "caption": null,
+        "imageUrl": "https://dl.airtable.com/.attachments/c3efa7c6edb8d377adfd387306032d9f/83f031a7/mockupdesign.jpg"
+    }, {
+        "type": "YouTube",
+        "caption": null,
+        "videoId": "axYMN_0XyoI"
+    }]
+}, {
+    "id": "a6013439-4d6c-5c51-a122-1770b854c674",
+    "slug": "shop-the-dot",
+    "title": "Shop The Dot",
+    "description": "Hoe verander je de mindset bij jongeren om meer duurzaam te leven? Met die vraag gingen enkele studenten van de opleiding aan de slag tijdens het internationale project Creative Skills 21. Het slimme resultaat: Shop The Dot! ",
+    "tags": ["Webdevelopment", "User Interface Design"],
+    "makers": ["Jana Bruggeman", "Maarten Luyckx", "Margot Serpentier", "Jef Vermeire", "Hans Vertriest", "Maarten Oste"],
+    "technologies": null,
+    "picture": "https://dl.airtable.com/.attachments/565ab49a2e38df84ea96088504ee24fe/0b6d394b/89382881_1159010554430995_6611511896992299664_n.jpg",
+    "course": null,
+    "eduSpecialisations": ["New Media Development (Multimediaproductie)", "Crossmedia-ontwerp"],
+    "eduOptions": null,
+    "assets": [{
+        "type": "YouTube",
+        "caption": null,
+        "videoId": "GisDUe-j50g"
+    }, {
+        "type": "Image",
+        "caption": null,
+        "imageUrl": "https://dl.airtable.com/.attachments/b91049be57050c683da7f553e17509f6/156d5c7b/87813764_2572747629632828_2416227027375856522_n.jpg"
+    }, {
+        "type": "Image",
+        "caption": null,
+        "imageUrl": "https://dl.airtable.com/.attachments/4b5616c490f926501bb6d7f027dfcda9/c8822f58/89815238_2251785928451666_483513548068498181_n.jpg"
+    }, {
+        "type": "Image",
+        "caption": null,
+        "imageUrl": "https://dl.airtable.com/.attachments/77e3918451d534b12c12a8fade8c7246/5da59cc6/89817977_234388094397891_2047566758438418562_n.jpg"
+    }, {
+        "type": "Image",
+        "caption": null,
+        "imageUrl": "https://dl.airtable.com/.attachments/ca99a51243188071aa74d7abdd9f18e5/c7a3e9c6/89824356_2566347420303326_8663087849120961420_n.jpg"
+    }]
+}, {
+    "id": "ae7480c1-b048-5ca0-a0ff-b65833564639",
+    "slug": "curb-skateshop-pop-up-expo",
+    "title": "CURB Skateshop Pop Up Expo",
+    "description": "Laatstejaars Graphic Designers van Arteveldehogeschool ontwerpen 20 skateboards voor de Gentse Curb skateshop. Één student won met haar  ontwerp de wedstrijd en haar skateboard zal effectief verkocht worden. Alle 20 ontwerpen hingen twee weken tentoon in het Gentse café Flagent. \n\nHet Nieuwsblad interviewde docent Stijn Anseel over dit project. ",
+    "tags": ["Brand Design"],
+    "makers": ["3GD"],
+    "technologies": null,
+    "picture": "https://dl.airtable.com/.attachments/9447a5a0ff88b4c15f0092f0163d15e1/428f10c7/curb-postermockup.jpg",
+    "course": null,
+    "eduSpecialisations": ["Crossmedia-ontwerp"],
+    "eduOptions": null,
+    "assets": [{
+        "type": "Image",
+        "caption": null,
+        "imageUrl": "https://dl.airtable.com/.attachments/8d340c2b55f6a550cf00e985770be148/8fef2703/71713089_106930043997299_1678383815870169116_n1.jpg"
+    }, {
+        "type": "Image",
+        "caption": null,
+        "imageUrl": "https://dl.airtable.com/.attachments/335bc302d80d98e5cc5de18a332f07a5/7fed8632/20200219_101230.jpg"
+    }, {
+        "type": "Image",
+        "caption": null,
+        "imageUrl": "https://dl.airtable.com/.attachments/202b680b75cd19e0224d86bfc6bfd781/cf77bd1f/20200219_101210.jpg"
+    }, {
+        "type": "Image",
+        "caption": null,
+        "imageUrl": "https://dl.airtable.com/.attachments/c0d3473de8a62bce60c623ab1d8d64a5/fb69dca2/20200219_101222.jpg"
+    }, {
+        "type": "Image",
+        "caption": null,
+        "imageUrl": "https://dl.airtable.com/.attachments/c371c802c0aee1eb571d75b5056d5350/aefdeb21/20200219_101156.jpg"
+    }]
+}, {
+    "id": "4bb68956-8419-5b7d-b790-d33c348b7002",
+    "slug": "hackaton-week-new-media-development",
+    "title": "Hackaton-week New Media Development",
+    "description": "Hackaton-week New Media Development",
+    "tags": ["Hackathon", "Webdevelopment", "App Development"],
+    "makers": ["2NMD"],
+    "technologies": ["react", "react native", "Node.js"],
+    "picture": "https://dl.airtable.com/.attachments/7d28677d72e3f732bbdc3a441a36a187/61988c5e/hackathon.jpg",
+    "course": "Mobile Development II",
+    "eduSpecialisations": ["New Media Development (Multimediaproductie)"],
+    "eduOptions": null,
+    "assets": [{
+        "type": "YouTube",
+        "caption": null,
+        "videoId": "MzRlHIYI1T8"
+    }]
+}, {
+    "id": "7891d4d0-71bb-5181-9656-a50bb29f4679",
+    "slug": "3da03--oefening-in-isometric-design",
+    "title": "3Da03: oefening in Isometric Design",
+    "description": "De bedoeling van deze opdracht is een \"stilleven\" te maken in Isometric Design. Ook al komt er geen \"Motion\" aan te pas, toch moet het beeld een lengte hebben van 20 seconden. Maak er een boeiende 20 seconden van waarin ik me kan verliezen in een mooie verhaallijn, strak design of fijne details.",
+    "tags": ["3D Modelling"],
+    "makers": ["2AVD"],
+    "technologies": ["Isometric Design", "3D Modelling"],
+    "picture": "https://dl.airtable.com/.attachments/5ad3689d8b96732f8509ae752f3edb92/7c3f26fc/projects_lg_09_3Da03_3Danim1_2017_18_Jelle_DHondt.jpg",
+    "course": "Motion Graphics 3D I",
+    "eduSpecialisations": ["Audiovisual Design (Multimediaproductie)"],
+    "eduOptions": ["Audiovisual Design"],
+    "assets": [{
+        "type": "Image",
+        "caption": null,
+        "imageUrl": "https://dl.airtable.com/.attachments/58abc22ac11e37a7091cdfca44555711/cc4eb547/projects_lg_09_3Da03_3Danim1_2017_18_Jelle_DHondt.jpg"
+    }, {
+        "type": "Image",
+        "caption": null,
+        "imageUrl": "https://dl.airtable.com/.attachments/0a96f59a621f4d3cc1188d4c25afd847/14d5e019/projects_lg_13_3Da03_3Danim1_2017_18_Lisanne_Debrabandere.jpg"
+    }, {
+        "type": "Image",
+        "caption": null,
+        "imageUrl": "https://dl.airtable.com/.attachments/22fac8bd38704351500aad34f790e420/4bb03223/projects_lg_14_3Da03_3Danim1_2017_18_Jeroen_Depauw.jpg"
+    }, {
+        "type": "Image",
+        "caption": null,
+        "imageUrl": "https://dl.airtable.com/.attachments/4518ca9731523b38349c8c1ec848786a/d657d527/projects_lg_19_3Da03_3DanimI_2017_18_Simon_Hoornaert.jpg"
+    }, {
+        "type": "Image",
+        "caption": null,
+        "imageUrl": "https://dl.airtable.com/.attachments/a6a7e31e99f502dda02cf721daa0cd50/af4deb31/projects_lg_21_3Da03_3DanimI_2017_18_Mat_Huylebroeck.jpg"
+    }, {
+        "type": "Image",
+        "caption": null,
+        "imageUrl": "https://dl.airtable.com/.attachments/05cb56288bb3ee3892931d22b12722cc/c8300204/projects_lg_24_3Da03_3DanimI_2017_18_Helena_Mestdag.jpg"
+    }, {
+        "type": "Image",
+        "caption": null,
+        "imageUrl": "https://dl.airtable.com/.attachments/3817ec3a35bfbc9158881f44d6d5c367/0cac6146/projects_lg_51_3Da03_3Danim1_2017_18_Inge_Verschatse.jpg"
+    }]
+}, {
+    "id": "26223632-1402-5abc-9d1c-3860c0eda78f",
+    "slug": "one-minute-festival",
+    "title": "One Minute Festival",
+    "description": "Studenten Audiovisual Design organiseren elk jaar het One Minute Festival. Deze liveshow organiseren ze volledig zelf en wordt live uitgezonden. Studenten kunnen hun video van 1 minuut opsturen en hieruit worden verschillende winnaars gekozen onder verschillende categorieën. In 2019 was het al de tiende editie van dit festival.",
+    "tags": ["Motion Graphics", "Video", "Audio"],
+    "makers": ["1MMP", "2AVD", "3AVD"],
+    "technologies": null,
+    "picture": "https://dl.airtable.com/.attachments/390f09ce47764815c0373ff6110fe39f/97d1e2dc/88357350_2821450874557657_2180164243133825024_n.jpg",
+    "course": null,
+    "eduSpecialisations": ["Audiovisual Design (Multimediaproductie)"],
+    "eduOptions": null,
+    "assets": [{
+        "type": "Image",
+        "caption": null,
+        "imageUrl": "https://dl.airtable.com/.attachments/8503b35090ac88e310bb039ec0f70660/f6629191/65103218_2327890440580372_4914994856524251136_o.jpg"
+    }, {
+        "type": "Image",
+        "caption": null,
+        "imageUrl": "https://dl.airtable.com/.attachments/5a9d3716191331482915faa0d56a724c/6493b895/65305565_2327888483913901_316772443878326272_o.jpg"
+    }, {
+        "type": "Image",
+        "caption": null,
+        "imageUrl": "https://dl.airtable.com/.attachments/ea2c5ceb9790902e76107af87709cd81/ec7d8a40/65809481_2327891177246965_7676042697613770752_o.jpg"
+    }, {
+        "type": "Image",
+        "caption": null,
+        "imageUrl": "https://dl.airtable.com/.attachments/0324ba839af5828a98f2caf7c6125064/e7f012d3/65078300_2327882660581150_2781483372793298944_o.jpg"
+    }, {
+        "type": "YouTube",
+        "caption": null,
+        "videoId": "Cppp1pnoF-8"
+    }]
+}, {
+    "id": "734464b9-fc37-5cbc-935b-3a6583b73137",
+    "slug": "tutorial-nikon-d610",
+    "title": "Tutorial Nikon D610",
+    "description": "Wout De Taeye maakte een originele tutorial voor zijn Nikon D610 camera.",
+    "tags": ["Video Tutorial"],
+    "makers": ["Wout De Taeye"],
+    "technologies": null,
+    "picture": "https://dl.airtable.com/.attachments/5bfc6395105cd2c8b22ed093d8497132/725107fb/header_nikon_2.jpg",
+    "course": null,
+    "eduSpecialisations": ["Audiovisual Design (Multimediaproductie)"],
+    "eduOptions": null,
+    "assets": [{
+        "type": "YouTube",
+        "caption": null,
+        "videoId": "xmjB-3fej9w"
+    }]
+}, {
+    "id": "c515469b-b512-5487-af20-abae9449ffa3",
+    "slug": "ecodesign-‘granolaverpakking’",
+    "title": "Ecodesign ‘Granolaverpakking’",
+    "description": "In de les Verpakkingen krijgt het tweede jaar Grafimediabeleid een echte case: ontwerp een ecologische verpakking voor de klant ‘Wees Gegroet Granola’. Volgens ‘Design Thinking’ verdiepten ze zich eerst in de omgeving van een kind of sporter en zochten ze naar de juiste verpakkingsoplossing, die dan nog eens technologisch juist zit en duurzaam is. Op de foto’s zie je het resultaat van een student.",
+    "tags": ["Brand Design", "Packaging"],
+    "makers": ["2GMB"],
+    "technologies": ["Verpakkingstechnologie ", "Ecodesign"],
+    "picture": "https://dl.airtable.com/.attachments/04d934f2a7ebf4435f7a394c79ff0fa7/92cfe4ac/case_granola_3.jpg",
+    "course": "Printproduction",
+    "eduSpecialisations": ["Grafimediabeleid"],
+    "eduOptions": ["Printmedia"],
+    "assets": [{
+        "type": "Image",
+        "caption": null,
+        "imageUrl": "https://dl.airtable.com/.attachments/6ddbe1adb305cc6d10649aec685ad1a4/c3b068f3/case_granola_2.jpg"
+    }, {
+        "type": "Document",
+        "caption": null
+    }, {
+        "type": "Image",
+        "caption": null,
+        "imageUrl": "https://dl.airtable.com/.attachments/8d2c780d7f7731469b459e5badb5e58b/a1779ab5/case_granola_3.jpg"
+    }, {
+        "type": "Image",
+        "caption": null,
+        "imageUrl": "https://dl.airtable.com/.attachments/769fa7d027a1f1c64b3d340581a5a8a8/6ac081fd/granola.jpg"
+    }, {
+        "type": "Image",
+        "caption": null,
+        "imageUrl": "https://dl.airtable.com/.attachments/12d96981202f5017d6f9663a3f8be424/2af12d1d/WGG.jpg"
+    }]
+}, {
+    "id": "826d6f5a-a1b9-57aa-a2e8-71edf1fa3953",
+    "slug": "project-shrinksleeves",
+    "title": "Project Shrinksleeves",
+    "description": "In het derde jaar GMB Printmedia verdiepen de studenten zich ondermeer in verpakkingstechnologie. In een realistische case wordt samengewerkt met professionelen uit het werkveld. Ze ontwerpen een eigen flesje in 3D en printen het ook driedimensionaal. Met gespecialiseerde software compenseren ze het krimpgedrag van een shrinksleeve, zodat hun design perfect op het flesje past. Uiteindelijk maken ze een prototype, zowel digitaal als een tastbaar exemplaar. ",
+    "tags": ["Packaging Technology"],
+    "makers": ["3GMB Printmedia"],
+    "technologies": ["Blender", "3D-print", "Packaging Software", "3D-prototyping", "Digitaal drukken op shrinksleeves"],
+    "picture": "https://dl.airtable.com/.attachments/0d7a68203605a7fbdab5ce99d3a8129a/c8f621e0/_DSC004506.JPG",
+    "course": "Project Printmedia",
+    "eduSpecialisations": ["Grafimediabeleid"],
+    "eduOptions": ["Printmedia"],
+    "assets": [{
+        "type": "Image",
+        "caption": null,
+        "imageUrl": "https://dl.airtable.com/.attachments/cf178a9dbf37b744c0249064fd103271/8e28c472/_DSC0002_2.jpg"
+    }, {
+        "type": "Image",
+        "caption": null,
+        "imageUrl": "https://dl.airtable.com/.attachments/30b0729c0fdde2860f69b2d175d8c103/68e48d5c/_DSC0011.JPG"
+    }, {
+        "type": "YouTube",
+        "caption": null,
+        "videoId": "bMxlua0UC9U "
+    }]
+}, {
+    "id": "0cc04fe9-fba5-5ab9-b5d0-ccdd0355054b",
+    "slug": "cesar",
+    "title": "Cesar",
+    "description": "De briefing van deze opdracht voor het vak '2D Animatie' luidde als volgt: maak een one minute video door gebruik te maken van ‘Vormator’ elementen.",
+    "tags": ["Motion Graphics"],
+    "makers": ["Victor Gouhie"],
+    "technologies": ["Adobe After Effects"],
+    "picture": "https://dl.airtable.com/.attachments/6d854a15130f8e5420c7b781175fab97/10755d82/case_cesar.png",
+    "course": "Bachelorproef",
+    "eduSpecialisations": ["Audiovisual Design (Multimediaproductie)"],
+    "eduOptions": ["Audiovisual Design"],
+    "assets": [{
+        "type": "Image",
+        "caption": "Vorminator bestaat uit acht vectorvormen, die 'the elements' genoemd worden. Deze mogen door de ontwerpers gebruikt worden om composities te maken, maar je moet je hierbij wel aan een aantal regels houden.\n",
+        "imageUrl": "https://dl.airtable.com/.attachments/f1a6ef3a9ac6cf27518fa2b610fc3a68/a15af620/case_theelements.png"
+    }, {
+        "type": "Image",
+        "caption": "Victor: 'Ik wou kleine elementen gebruiken die samenkomen tot een groot geheel of een groot wezen. De vorminator elementen waren perfect voor dit soort animatie en zo is uiteindelijk de video met het samengestelde skelet tot stand gekomen.'\n",
+        "imageUrl": "https://dl.airtable.com/.attachments/fd3d36825137213df6eccd490d88aa9a/70753f12/casel_cesar.png"
+    }, {
+        "type": "Image",
+        "caption": null,
+        "imageUrl": "https://dl.airtable.com/.attachments/3627f146e712972257a8a41daeaaf69a/cf2d3551/3_detail_cesar.png"
+    }, {
+        "type": "Image",
+        "caption": null,
+        "imageUrl": "https://dl.airtable.com/.attachments/aa6d5a59e61b918ceff8d26ab3d9edeb/9460dfab/cesar.gif"
+    }, {
+        "type": "Image",
+        "caption": "De bedoeling van de opdracht was om het belang van beperkingen op creativiteit te tonen. De resultaten tonen aan dat je zelfs met een grote hoeveelheid restricties tot een verrassend resultaat kan komen.\n",
+        "imageUrl": "https://dl.airtable.com/.attachments/db09a490872d677994e002ac4e26de1d/2dd65048/5_detail_cesar.png"
+    }, {
+        "type": "Image",
+        "caption": null,
+        "imageUrl": "https://dl.airtable.com/.attachments/1edf2b87dac5bae3ca18c618946f783c/2335525e/case_cesar.png"
+    }, {
+        "type": "YouTube",
+        "caption": null,
+        "videoId": "gg7fs0jLhMQ"
+    }]
+}, {
+    "id": "9ed005d0-92e5-5ac6-8bc9-28465757c2d9",
+    "slug": "google-online-marketing-challenge",
+    "title": "Google Online Marketing Challenge",
+    "description": "Google voorziet een Adwords reclamebudget van 250 dollar. Hiermee bedenken en lanceren de GMB'ers een online campagne voor een non-profit organisatie. De campagne liep over een periode van drie weken.",
+    "tags": ["Marketing"],
+    "makers": ["3GMB"],
+    "technologies": null,
+    "picture": "https://dl.airtable.com/.attachments/c58ea93ac5a07e75bf1fefc9b7f2f812/531c64f5/google-thumb.jpg",
+    "course": null,
+    "eduSpecialisations": ["Grafimediabeleid"],
+    "eduOptions": ["Crossmedia"],
+    "assets": [{
+        "type": "Image",
+        "caption": null,
+        "imageUrl": "https://dl.airtable.com/.attachments/9988f31bd53cd7eef252b835f0f433ff/5e622993/online-marketing-challenge.jpg"
+    }]
+}, {
+    "id": "a803c6b5-59f9-5546-a660-9cd88911b3da",
+    "slug": "kortfilm-temst",
+    "title": "Kortfilm TEMST",
+    "description": "Moord, drugs en corrupte agenten. Daarover gaat de fictieve kortfilm 'Temst' van AVD-student Soufian Toté. Hij regiseerde de spannende kortfilm voor zijn eindwerk. Op Youtube werd zijn kortfilm al meer dan 6000 keer bekeken!",
+    "tags": ["Kortfilm"],
+    "makers": ["Soufian Toté"],
+    "technologies": null,
+    "picture": "https://dl.airtable.com/.attachments/ec53011e804eafb91cbe192c0840f647/4b5dabf0/header_TEMST.JPG",
+    "course": null,
+    "eduSpecialisations": ["Audiovisual Design (Multimediaproductie)"],
+    "eduOptions": null,
+    "assets": [{
+        "type": "YouTube",
+        "caption": null,
+        "videoId": "01I9ZybIfsg"
+    }]
+}, {
+    "id": "cdb3e249-ca99-5622-8a68-834d1c5f48c1",
+    "slug": "themapark-campagne",
+    "title": "Themapark campagne",
+    "description": "De eindopdracht van de tweede jaar CMO bestond uit het ontwikkelen van een branding voor een fictief thema-pretpark. Caroline was ambitieus en ging voor een themapark dat zich een paar mijl onder de zeespiegel bevindt.",
+    "tags": ["Brand Design"],
+    "makers": ["Caroline Pham"],
+    "technologies": ["Adobe Illustrator", "Adobe InDesign"],
+    "picture": "https://dl.airtable.com/.attachments/24920262d2d9fdcc7a7545422c761361/5ddb66ae/2_detail_logovoorstudie.png",
+    "course": "Graphic Design IV",
+    "eduSpecialisations": ["Crossmedia-ontwerp"],
+    "eduOptions": ["Graphic Design"],
+    "assets": [{
+        "type": "Image",
+        "caption": "'Branded' communicatie vertrekt in de meeste gevallen vanuit een logo. Een logo kan makkelijk gereproduceerd worden, maar voor het er is worden vele uren besteed aan ontwerpwerk, besprekingen en bijschaven \n",
+        "imageUrl": "https://dl.airtable.com/.attachments/523b2ad5cfefd436b475650b1bb4cfa9/65979068/1_detail_logo.png"
+    }, {
+        "type": "Image",
+        "caption": null,
+        "imageUrl": "https://dl.airtable.com/.attachments/ee8527f624d80b24d9acf02382602fec/9f5ca871/2_detail_logovoorstudie.png"
+    }, {
+        "type": "Image",
+        "caption": null,
+        "imageUrl": "https://dl.airtable.com/.attachments/7b8445684654669c9910a3be4b06123e/1f203cf0/3_detail_logovoorstudie.png"
+    }, {
+        "type": "Image",
+        "caption": "De volgende stap is de creatie van de gewentste toepassingen, rekeninghoudend met de huisstijl. Onderstaand zien we de mascotte, poster en buswrap.\n",
+        "imageUrl": "https://dl.airtable.com/.attachments/07cdc09caf2870eed6339e5e5f4e79c1/d1e696c6/4_detail_kleurgebruik.png"
+    }, {
+        "type": "Image",
+        "caption": null,
+        "imageUrl": "https://dl.airtable.com/.attachments/4465ad274683dcb39246ea5d47bc47ba/81186f3b/5_detail_mascotte.png"
+    }, {
+        "type": "Image",
+        "caption": null,
+        "imageUrl": "https://dl.airtable.com/.attachments/0113be3d2264986031b5feb218cede6a/379a521f/6_detail_poster.png"
+    }, {
+        "type": "Image",
+        "caption": null,
+        "imageUrl": "https://dl.airtable.com/.attachments/b1999341e54bb478632900e94ea73269/811d2171/7_detail_buswrap.png"
+    }, {
+        "type": "Image",
+        "caption": null,
+        "imageUrl": "https://dl.airtable.com/.attachments/8b7d7cb277c7dddccf330c1b7bdfa41d/a4b85d82/8_detail_onepage.png"
+    }]
+}, {
+    "id": "0828c3ad-3417-5409-aa63-a1539634a55e",
+    "slug": "looking-good-krant",
+    "title": "Looking Good Krant",
+    "description": "De selfie- en celebritycultuur drukt vandaag de dag haar stempel op een door (visuele) media doordrongen wereld en beïnvloedt onze kijk op schoonheid en esthetiek. Hiermee gingen derdejaarsstudenten Journalistiek  en studenten Graphic Design van onze opleiding aan de slag. Resultaat: een themakrant met als titel \"Looking Good\". ",
+    "tags": ["Brand Design", "Magazine"],
+    "makers": ["3GD", "3JOU"],
+    "technologies": null,
+    "picture": "https://dl.airtable.com/.attachments/c121fa2685da74a8c0c5a6efcfc82fc7/564459af/cover_2.jpg",
+    "course": null,
+    "eduSpecialisations": ["Crossmedia-ontwerp"],
+    "eduOptions": null,
+    "assets": [{
+        "type": "Image",
+        "caption": null,
+        "imageUrl": "https://dl.airtable.com/.attachments/1181ea8d0e2ee346e646b05358432598/b5535c8a/spread01_2.jpg"
+    }, {
+        "type": "Image",
+        "caption": null,
+        "imageUrl": "https://dl.airtable.com/.attachments/3f1c5c77a2115a2675231ab516ae90ea/0e906540/spread02_2.jpg"
+    }, {
+        "type": "Image",
+        "caption": null,
+        "imageUrl": "https://dl.airtable.com/.attachments/77521e068ecc9fd22496d96673e94494/259bcd15/spread04_2.jpg"
+    }]
+}, {
+    "id": "cc1348f7-d321-5379-bcd2-b8be344b364f",
+    "slug": "parkspot-3.0",
+    "title": "Parkspot 3.0",
+    "description": "“De challenge bestaat erin om vrije parkeerplekken te herkennen binnen een stad m.b.v. hardware en software. Parkeren in een stad is een groot probleem, accurate informatie over vrije parkeerplaatsen is niet voorhanden. Auto’s rijden onnodig rond op zoek naar een parkeerplek, wat zorgt voor extra druk verkeer en CO2-uitstoot.”",
+    "tags": ["App Development", "Artificial Intelligence"],
+    "makers": ["Nawang Tendar", "Kevin Leemans", "Jan Temmerman"],
+    "technologies": ["react native", "mongodb", "nodejs"],
+    "picture": "https://dl.airtable.com/.attachments/c18c8ea4f8829a600fe0c82deb7639a6/10e32afd/case_parkspot.PNG",
+    "course": "Mobile Development II",
+    "eduSpecialisations": ["New Media Development (Multimediaproductie)"],
+    "eduOptions": ["New Media Development"],
+    "assets": [{
+        "type": "Image",
+        "caption": null,
+        "imageUrl": "https://dl.airtable.com/.attachments/f040caf1373382630e8fae207e0a2bb7/7e124606/parkspot3_1.PNG"
+    }, {
+        "type": "Image",
+        "caption": null,
+        "imageUrl": "https://dl.airtable.com/.attachments/edd33f2c7f00167cbf1fb886db8318b9/9cbe885f/parkspot3_3.PNG"
+    }, {
+        "type": "Image",
+        "caption": null,
+        "imageUrl": "https://dl.airtable.com/.attachments/aff66947c3b65e8df1d97fcf56f6b7c8/af553206/parkspot3_5.PNG"
+    }, {
+        "type": "Image",
+        "caption": null,
+        "imageUrl": "https://dl.airtable.com/.attachments/0a5eee7d101bac8d82aab246c0295eae/3360363b/parkspot3_8.PNG"
+    }, {
+        "type": "YouTube",
+        "caption": null,
+        "videoId": "TJyEMdpsMbU"
+    }]
+}, {
+    "id": "24ea98d1-0793-53fa-a0d8-74e248629b12",
+    "slug": "marsman",
+    "title": "Marsman",
+    "description": "Opdracht: 'stel je voor dat een reis naar de planeet Mars even gewoon zou zijn als een intercontinentale vlucht op aarde. Hoe zou je deze reis dan promoten?'",
+    "tags": ["Brand Design"],
+    "makers": ["Kato Janssens"],
+    "technologies": ["Adobe Illustrator"],
+    "picture": "https://dl.airtable.com/.attachments/e3981d036e17ee706dc5b7300fd28bb2/8dc57d28/case_marsman.jpg",
+    "course": "Graphic Design IV",
+    "eduSpecialisations": ["Crossmedia-ontwerp"],
+    "eduOptions": ["Graphic Design"],
+    "assets": [{
+        "type": "Image",
+        "caption": null,
+        "imageUrl": "https://dl.airtable.com/.attachments/369afece911d883733040c0cca6f6d2c/dc320a3d/1.logo.jpg"
+    }, {
+        "type": "Image",
+        "caption": "Het uitwerken van de campagne begon met het ontwerp van een passend logo. Een symbool dat een goede mix van wetenschappelijkheid en toegankelijkheid uitstraalt\n",
+        "imageUrl": "https://dl.airtable.com/.attachments/9cf29716f62ce438349cd51bb68fc6a7/c30dc245/2.logo.jpg"
+    }, {
+        "type": "Image",
+        "caption": "Het publiek wordt doorheen de campagne geloodst door de mascotte Marcel.\n",
+        "imageUrl": "https://dl.airtable.com/.attachments/784e6ce137c810dbecdae60fcebf0eed/6f61161f/3.mascotte.jpg"
+    }, {
+        "type": "Image",
+        "caption": null,
+        "imageUrl": "https://dl.airtable.com/.attachments/aceb6459b412436099992c2d0908991d/186c5299/4.poster.jpg"
+    }, {
+        "type": "Image",
+        "caption": "De poster is opgebouwd rondom blikvanger die meteen de aandacht van de voorbijganger trekt. De volgende stap is de site bezoeken, registreren en de trip richting de sterren aanvatten\n",
+        "imageUrl": "https://dl.airtable.com/.attachments/7ed40f8c8a2fe8cb8950717950b42f85/a4d2455b/5.poster.jpg"
+    }]
+}, {
+    "id": "b33448a8-c772-557d-a945-95ab38b39709",
+    "slug": "artevelde-institutional-repository",
+    "title": "Artevelde Institutional Repository",
+    "description": "Aire is de online repository van de Arteveldehogeschool. Het is een doorzoekbaar archief gevuld met publicaties van (oud-)studenten, docenten, onderzoekers, diensten of externe partners van de Arteveldehogeschool. Aire streeft naar Open Access, zodat de publicaties zo veel mogelijk vrij toegankelijk zijn.",
+    "tags": ["User Interface Design", "User Experience Design"],
+    "makers": ["Nomi Van Gool"],
+    "technologies": ["Adobe XD"],
+    "picture": "https://dl.airtable.com/.attachments/fe2f1c4afa2ce732f257ee24044b8860/91b88b48/case_sm_aire_mockup.jpg",
+    "course": "Studio GDM",
+    "eduSpecialisations": ["Grafimediabeleid"],
+    "eduOptions": ["Crossmedia"],
+    "assets": [{
+        "type": "Image",
+        "caption": null,
+        "imageUrl": "https://dl.airtable.com/.attachments/3e5e22fd72b91eb88127d07d6187a5fb/c1fe7009/projects_lg_aire_zoeken.jpg"
+    }, {
+        "type": "Image",
+        "caption": null,
+        "imageUrl": "https://dl.airtable.com/.attachments/da5c3cdafca1623803b7af675792d90f/9824232d/projects_lg_aire_toegangsticket.jpg"
+    }, {
+        "type": "Image",
+        "caption": null,
+        "imageUrl": "https://dl.airtable.com/.attachments/a8eca170841cfd65b578385f4587f8f2/c78eec3c/projects_lg_aire_home.jpg"
+    }, {
+        "type": "Image",
+        "caption": null,
+        "imageUrl": "https://dl.airtable.com/.attachments/eaeb819bcea9b4f5ea28c67f4b7a49f3/af8c5045/aire_mockup01.jpg"
+    }, {
+        "type": "Image",
+        "caption": null,
+        "imageUrl": "https://dl.airtable.com/.attachments/9cb9b083acea61849a57f0c2ad5ad8e1/2348aaed/aire_mockup02.jpg"
+    }]
+}, {
+    "id": "6ff25798-f40d-5410-912b-9e423982bc45",
+    "slug": "gravity-poster-contest",
+    "title": "Gravity Poster contest",
+    "description": "Studenten Crossmedia-ontwerp kaapten goud en zilver weg tijdens de posterwedstrijd in De Winkelhaak georganiseerd door grafische bedrijven The Navigator, Soporset en Igepa. De wedstrijd ging tussen onze studenten en studenten van de AP Hogeschool Antwerpen. De roze affiche werd de uiteindelijke winnaar. ",
+    "tags": ["Poster Design"],
+    "makers": ["3CMO"],
+    "technologies": null,
+    "picture": "https://dl.airtable.com/.attachments/6edcfa7af2fc00c9db07f0595981f5e8/fa1f2278/B_Winkelhaak_groep.jpg",
+    "course": null,
+    "eduSpecialisations": ["Crossmedia-ontwerp"],
+    "eduOptions": null,
+    "assets": [{
+        "type": "Image",
+        "caption": null,
+        "imageUrl": "https://dl.airtable.com/.attachments/22ea6f5fa7a5c4dd865be059ac70dc3a/09c49042/gravityposter.JPG"
+    }, {
+        "type": "Image",
+        "caption": null,
+        "imageUrl": "https://dl.airtable.com/.attachments/0e64e15fd47568c195dc4df9b66bb279/0f96fbbf/Winkelhaak_Delphine.JPG"
+    }, {
+        "type": "Image",
+        "caption": null,
+        "imageUrl": "https://dl.airtable.com/.attachments/949d6a026d94e2584743f80d4b5568a0/a1de5d39/Winkelhaak_Maarten.JPG"
+    }, {
+        "type": "Image",
+        "caption": null,
+        "imageUrl": "https://dl.airtable.com/.attachments/ca79ca0acf0ec49f418ebc52fcb9f119/146b47d5/gravity_vanasscheSAm.jpg"
+    }]
+}, {
+    "id": "f2b67293-43b3-5bc9-90e9-e809196cdf5c",
+    "slug": "kortfilm-wiedersehen",
+    "title": "Kortfilm Wiedersehen",
+    "description": "Enkele AVD studenten produceerden \"Wiedersehen\", een spannende kortfilm over een drugsdealer in problemen.  ",
+    "tags": ["Kortfilm"],
+    "makers": ["3AVD"],
+    "technologies": null,
+    "picture": "https://dl.airtable.com/.attachments/aa4ea416bd0567cdfdb1ae81209dff96/09fc01dd/header_wiedersehen.jpg",
+    "course": null,
+    "eduSpecialisations": ["Audiovisual Design (Multimediaproductie)"],
+    "eduOptions": null,
+    "assets": [{
+        "type": "YouTube",
+        "caption": null,
+        "videoId": "Mbz-nls8TYg"
+    }]
+}, {
+    "id": "b63dcd07-d3d4-5bb8-8ddb-daa37c313da4",
+    "slug": "rebranding-steden",
+    "title": "Rebranding Steden",
+    "description": "Onze opleiding telt ook enkele studieduurverkorters. Deze studenten mochten een eigen branding ontwikkelen voor een stad naar keuze. ",
+    "tags": ["Brand Design"],
+    "makers": ["2CMO-STDV"],
+    "technologies": null,
+    "picture": "https://dl.airtable.com/.attachments/094cd35c1bd5ae469e89ad3426b61cef/5fbb9d9f/Geraardsbergen_SilkeDeVleeschouwer.jpg",
+    "course": null,
+    "eduSpecialisations": ["Crossmedia-ontwerp"],
+    "eduOptions": null,
+    "assets": [{
+        "type": "Image",
+        "caption": null,
+        "imageUrl": "https://dl.airtable.com/.attachments/ed19b6cd3279c89e56e611ca9fa2214c/2089d84b/kaapstad_ReyneLaura.jpg"
+    }, {
+        "type": "Image",
+        "caption": null,
+        "imageUrl": "https://dl.airtable.com/.attachments/9883c667659dd2bb8c3a1a7bfde08b00/de9432cd/amersfoort_MargauxVandevelde.jpg"
+    }, {
+        "type": "Image",
+        "caption": null,
+        "imageUrl": "https://dl.airtable.com/.attachments/f4b260cda34d888ab80a04985de51939/21281e9b/Lommel_RavenVanDaal.jpg"
+    }]
+}, {
+    "id": "51cbe539-89c8-5fe7-82ab-b86483df1bcb",
+    "slug": "web-app---swappit",
+    "title": "Web App - Swappit",
+    "description": "Swappit is een veilingsplatform voor festivaltickets dat kopers en verkopers in contact brengt. Dit platform garandeert dat de gebruiker zijn ticket kan ruilen op een veilige en eenvoudige manier. De backoffice, gemaakt in Laravel, haalt data op uit een MySQL database en verdeelt dit via een eigen API. Via deze API consumeren we data in de frontoffice, die gemaakt is in Angular.",
+    "tags": ["Webdevelopment", "Back-end Development"],
+    "makers": ["Jordy Van der Haegen"],
+    "technologies": ["Laravel", "MySQL"],
+    "picture": "https://dl.airtable.com/.attachments/8c42c1ccf8ef2980be7abe89a6403f59/3286188b/case_lg_swapit_tiles.jpg",
+    "course": "Web Development II",
+    "eduSpecialisations": ["New Media Development (Multimediaproductie)"],
+    "eduOptions": ["New Media Development"],
+    "assets": [{
+        "type": "Image",
+        "caption": null,
+        "imageUrl": "https://dl.airtable.com/.attachments/fe5ec626c9704563a5731d4e5cf2103e/27fc1e93/case_lg_swapit_tiles.jpg"
+    }, {
+        "type": "Image",
+        "caption": null,
+        "imageUrl": "https://dl.airtable.com/.attachments/5678ccedd0c1341ad30c35c161c95367/e8afcaa5/case_swapit_responsive.jpg"
+    }, {
+        "type": "Image",
+        "caption": null,
+        "imageUrl": "https://dl.airtable.com/.attachments/6d2afe1d23c06c8ade4874647efaaa3b/6be3b167/case_swapit_vd-mobile.png"
+    }, {
+        "type": "Image",
+        "caption": null,
+        "imageUrl": "https://dl.airtable.com/.attachments/6839ce923d992908cbca4c4915a423ef/491d5f50/case_swapit_vd-web.png"
+    }]
+}
+]
