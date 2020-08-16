@@ -37,7 +37,7 @@ class HomePage {
           </div> 
         </section>  
 
-<p>terug zetten</p>
+        
 
         <div class="container">
           <div class="row align-items-center">

@@ -1,4 +1,13 @@
+
+import {
+  PersonsList
+} from '../components';
+
 class TeamPage {
+  constructor() {
+    this.compPersonsList = new PersonsList(3);
+  }
+
   async render() {
     return `
       <div class="page page--team">
@@ -6,6 +15,7 @@ class TeamPage {
           <h1>Team</h1>
           <h3>Meet the team!</h3>
           <div class="row">
+          ${await this.compPersonsList.render()}
             <div class="card mb-3" style="max-width: 540px;">
               <div class="row no-gutters">
                 <div class="col-md-4">
