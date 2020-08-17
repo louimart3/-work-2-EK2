@@ -10,6 +10,19 @@ class ContactPage {
               <p>
                 Bij elke opleiding wordt een contactpersoon vermeld waarbij je terecht kan voor al jouw specifieke vragen.
               </p>
+              <p>
+                Arteveldehogeschool VZW <br>
+                Hoogpoort 15 <br>
+                9000 Gent
+              </p>
+              <p>
+                <b>Algemeen telefoonnummer :</b><br>
+                <i class="fas fa-phone-alt"></i> T 09 234 90 00
+              </p>
+              <p>
+                Ondernemingsnummer: 0474.120.360<br>
+                BTW-nummer: BTW BE 0474.120.360
+              </p>
             </div>
             <div class="col-sm-6">
               <h2 class="contact_value">naam :</h2>

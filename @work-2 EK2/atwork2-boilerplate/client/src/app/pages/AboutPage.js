@@ -20,9 +20,25 @@ class AboutPage {
         </div>
         <div class="container">
           <div class="row">
-            <h1>
-              cards komen hier!
-            </h1>
+          <div class="col-sm-6 col-12">
+          <div class="single-content">
+            <img class="" src="https://i.pinimg.com/originals/fb/1f/8a/fb1f8af3676977124d8844c0614b5afe.jpg" >
+            <div class="text-content">
+              <p>tekst hier</p>
+              <p>meer tekst hieer</p>
+            </div> 
+          </div>
+        </div>
+        <div class="col-sm-6 col-12">
+              <div class="single-content">
+                <img class="" src="https://i.pinimg.com/originals/fb/1f/8a/fb1f8af3676977124d8844c0614b5afe.jpg" >
+                <div class="text-content">
+                  <p>tekst hier</p>
+                  <p>meer tekst hieer</p>
+                </div> 
+              </div>
+            </div>
+
           </div>
         </div>
         <section class="section">

@@ -18,7 +18,7 @@ class HomePage {
           <div class="container">
             <header class="section__header">
               <div class="row">
-                <div class="col-6">
+                <div class="col-sm-6 ">
                   <h3>Arteveldehogeschool</h3>
                   <h1 class="section__title">
                     Graduaat Front-End Web Development
@@ -77,11 +77,18 @@ class HomePage {
           </div>
         </div>
         
-        <div class="container section--green">
+        <div class="container ">
           <div class="row">
             <div class="col-sm-6 col-12">
-              <p>foto post</p>
+              <div class="single-content">
+                <img class="" src="https://i.pinimg.com/originals/fb/1f/8a/fb1f8af3676977124d8844c0614b5afe.jpg" >
+                <div class="text-content">
+                  <p>tekst hier</p>
+                  <p>meer tekst hieer</p>
+                </div> 
+              </div>
             </div>
+
             <div class="col-sm-6 col-12">
               <h3>Wij zitten niet stil!</h3>
               <p>
@@ -89,12 +96,26 @@ class HomePage {
               </p>
               <button>Zie meer</button>
             </div>
+
             <div class="col-sm-6 col-12">
-              <p>foto post</p>
+              <div class="single-content">
+                <img class="" src="https://i.pinimg.com/originals/fb/1f/8a/fb1f8af3676977124d8844c0614b5afe.jpg" >
+                <div class="text-content">
+                  <p>tekst hier</p>
+                  <p>meer tekst hieer</p>
+                </div> 
+              </div>
             </div>
+
             <div class="col-sm-6 col-12">
-              <p>foto post</p>
+            <div class="single-content">
+              <img class="" src="https://i.pinimg.com/originals/fb/1f/8a/fb1f8af3676977124d8844c0614b5afe.jpg" >
+              <div class="text-content">
+                <p>tekst hier</p>
+                <p>meer tekst hieer</p>
+              </div> 
             </div>
+          </div>
           </div>
         </div>
 

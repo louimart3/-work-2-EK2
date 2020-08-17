@@ -83,24 +83,51 @@ button {
   }
 }
 
-.row {
-  justify-content: space-between;
-  & .card {
-    border: solid;
-    transition-duration: 0.5s;
+.page--home , .page--about{
+  .single-content{
+    position: relative;
 
-    & .card-title {
-      font-size: 1.5rem;
-      font-weight: 700;
-      color: orangered;
-      margin: 1rem;
+    img {
+      max-height: 800px;
     }
 
-    & .card-text{
-      margin: 1rem;
+    .text-content{
+      position: absolute;
+      bottom: 5%;
+      background-color: rgba(255, 100, 201, 0.5);
+      width: 80%;
+      text-align: center;
+      left: 10%;
+      transition-duration: .6s;
+
+      &:hover{
+        background-color: rgba(255, 100, 201, 1);
+      }
     }
   }
 }
+
+.page--team {
+  .row {
+    justify-content: space-between;
+    & .card {
+      border: solid;
+      transition-duration: 0.5s;
+
+      & .card-title {
+        font-size: 1.5rem;
+        font-weight: 700;
+        color: orangered;
+        margin: 1rem;
+      }
+
+      & .card-text{
+        margin: 1rem;
+      }
+    }
+  }
+}
+
 
 .learn-item {
   font-size: 2.5rem;
