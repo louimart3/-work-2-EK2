@@ -13,61 +13,30 @@ class TeamPage {
           <h1>Team</h1>
           <h3>Meet the team!</h3>
           <div class="row ">
-            <div class="card mb-3" style="max-width: 540px;">
-              <div class="row no-gutters">
-                <div class="col-md-4">
-                  <img src="https://i.pinimg.com/originals/fb/1f/8a/fb1f8af3676977124d8844c0614b5afe.jpg" class="card-img" alt="...">
-                </div>
-                <div class="col-md-8">
-                  <div class="card-body">
-                    <h5 class="card-title">Card title</h5>
-                    <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                    <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
-                  </div>
+            <div class="col-6 col-sm-4">
+              <div class="box">
+                <img class="" src="https://dl.airtable.com/.attachmentThumbnails/638a5a7c5e9ca65cf834081e0fc54f29/7800f87f" alt="">
+                <div class="box-text">
+                  <p>titel hierzo</p>
+                  <p>nog wa tekst hier kende het</p>
                 </div>
               </div>
             </div>
-
-            <div class="card mb-3" style="max-width: 540px;">
-              <div class="row no-gutters">
-                <div class="col-md-4">
-                  <img src="https://i.pinimg.com/originals/fb/1f/8a/fb1f8af3676977124d8844c0614b5afe.jpg" class="card-img" alt="...">
-                </div>
-                <div class="col-md-8 ">
-                  <div class="card-body">
-                    <h5 class="card-title">Card title</h5>
-                    <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                    <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
-                  </div>
+            <div class="col-6 col-sm-4">
+              <div class="box">
+                <img class="" src="https://dl.airtable.com/.attachmentThumbnails/5f1fa62c40e63d2723039fa954794a55/6705d158" alt="">
+                <div class="box-text">
+                  <p>titel hierzo</p>
+                  <p>nog wa tekst hier kende het</p>
                 </div>
               </div>
             </div>
-
-            <div class="card mb-3" style="max-width: 540px;">
-              <div class="row no-gutters">
-                <div class="col-md-4">
-                  <img src="https://i.pinimg.com/originals/fb/1f/8a/fb1f8af3676977124d8844c0614b5afe.jpg" class="card-img" alt="...">
-                </div>
-                <div class="col-md-8">
-                  <div class="card-body">
-                    <h5 class="card-title">Card title</h5>
-                    <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                    <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div class="card mb-3" style="max-width: 540px;">
-              <div class="row no-gutters">
-                <div class="col-md-4">
-                  <img src="https://i.pinimg.com/originals/fb/1f/8a/fb1f8af3676977124d8844c0614b5afe.jpg" class="card-img" alt="...">
-                </div>
-                <div class="col-md-8">
-                  <div class="card-body">
-                    <h5 class="card-title">Card title</h5>
-                    <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                    <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
-                  </div>
+            <div class="col-6 col-sm-4">
+              <div class="box">
+                <img class="" src="https://dl.airtable.com/.attachmentThumbnails/7c69cf65f10a2ca13d84b1a84f434a31/4fb07f4c" alt="">
+                <div class="box-text">
+                  <p>titel hierzo</p>
+                  <p>nog wa tekst hier kende het</p>
                 </div>
               </div>
             </div>
